@@ -1,0 +1,9 @@
+---
+- _metadata:
+    name: "cEOS devices"
+    roles:
+      - name: "Router"
+  hostname_pattern_string: "ceos.*"
+  lala:
+    lala1: "1"
+    lala2: "2"
